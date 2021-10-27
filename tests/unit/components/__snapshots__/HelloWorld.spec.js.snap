@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HelloWorld component unit test 快照123 1`] = `
+"<div class=\\"hello\\">
+  22
+  <h1 data-test=\\"title\\">test</h1>
+  <div data-test=\\"loginBtn\\" class=\\"login-btn\\">去登录</div>
+</div>"
+`;
